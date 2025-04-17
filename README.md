@@ -1,6 +1,6 @@
 # The Financing for Renewables
 
-The Wacc Estimator is a Python project to estimate and model the cost of capital for energy transition technologies at a national scale and with temporal granularity. Input data is taken from [Damodaran](https://pages.stern.nyu.edu/~adamodar/) and [Ember Climate] (https://ember-energy.org/data/yearly-electricity-data/), with the approach extending on the one developed by [IRENA] (https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2023/May/IRENA_The_cost_of_financing_renewable_power_2023.pdf) 
+The Wacc Estimator is a Python project to estimate and model the cost of capital for energy transition technologies at a national scale and with temporal granularity. Input data is taken from [Damodaran(https://pages.stern.nyu.edu/~adamodar/) and [Ember Climate](https://ember-energy.org/data/yearly-electricity-data/), with the approach extending on the one developed by [IRENA] (https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2023/May/IRENA_The_cost_of_financing_renewable_power_2023.pdf) 
 
 
 ## Requirements
