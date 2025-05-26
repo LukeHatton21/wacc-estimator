@@ -46,5 +46,5 @@ See `LICENSE` for more detail
 
 The LCOH code was developed by Luke Hatton, who can be contacted at l.hatton23@imperial.ac.uk
 
-L Hatton, 2025.  Historical and Future Projected Costs of Capital for 10 energy technologies across 176 countries (LCOH) model. Currently under review.
+L Hatton, 2025.  Historical and Future Projected Costs of Capital for 10 energy technologies across 176 countries. Currently under review at Scientific Data.
 
