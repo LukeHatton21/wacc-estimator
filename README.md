@@ -36,9 +36,7 @@ The visualiser script can be used to generate visualisations, similar to those p
 
 
 ## LICENSE
-BSD 3-Clause License
-Copyright (C) 2023-2025  Luke Hatton
-All rights reserved.
+The data available from this tool is licensed as Creative Commons Attribution-NonCommercial International (CC BY-NC 4.0), which means you are free to copy, redistribute and adapt it for non-commercial purposes, provided you give appropriate credit. If you wish to use the data for commercial purposes, please get in touch. 
 
 See `LICENSE` for more detail
 
