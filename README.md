@@ -31,10 +31,6 @@ The data saved under the DATA folder was downloaded in early 2025, so may need u
 ### Set up the WACC model
 With the required libraries installed, the model should just require creation of a main script to run the wacc_calculator_v1.py code. Specifically, it should call the calculate_yearly_waccs method or calculate_future_waccs, with specification of the desired year, technology, country, and assumptions for projections forward (to include interest rate changes, GDP per capita improvements and/or 2030 technology targets)
 
-## POSTPROCESSING
-
-Graph plotting functions and other postprocessing scripts (e.g., cost-supply curve generation, LCOH heatmaps) are included in visualiser script.
-
 
 ## LICENSE
 BSD 3-Clause License
